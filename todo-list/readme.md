@@ -1,5 +1,3 @@
-Aqui está uma versão aprimorada do README, com mais ênfase nas funcionalidades do projeto:
-
 ---
 
 # To-do list
